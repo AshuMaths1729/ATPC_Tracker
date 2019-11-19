@@ -21,4 +21,4 @@ _Now what, enjoy your work without missing important announcements!!!_
 
 
 ***
-_Made with :heart: by **Ashutosh** for the welfare of fellow Amitians :innocent:_
+_Made with :heart: for the welfare of fellow Amitians :innocent:_
