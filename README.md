@@ -9,6 +9,13 @@ same.
 The user can go to the link by double clicking and copying the link
 into the browser.
 
-![alt text](https://github.com/AshuMaths1729/ATPC_Tracker/blob/master/App_Screenshot.jpg)
+![alt text](https://github.com/AshuMaths1729/ATPC_Tracker/blob/master/App_Screenshot.jpg "Screenshot of Application running")
 
-## Now what Enjoy your work without missing important announcements!!!
+___
+To Run, run the **ATPC_Tracker.exe** located in **dist** directory.
+
+_Now what, enjoy your work without missing important announcements!!!_
+
+
+***
+_Made with :heart: by **Ashutosh** for the welfare of fellow Amitians :innocent:_
