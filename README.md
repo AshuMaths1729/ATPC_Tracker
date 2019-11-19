@@ -15,7 +15,7 @@ into the browser.
 ![alt text](https://github.com/AshuMaths1729/ATPC_Tracker/blob/master/App_Screenshot.jpg "Screenshot of Application running")
 
 ___
-To Run, run the **ATPC_Tracker.exe** located in **dist** directory.
+To Run, just run the **ATPC_Tracker.exe**.
 
 _Now what, enjoy your work without missing important announcements!!!_
 
