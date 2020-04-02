@@ -1,6 +1,5 @@
 # ATPC Tracker
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![PyPI status](https://img.shields.io/pypi/status/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
 I was missing many placement opportunities because I opened the 
 placement portal occasionally, like once in 2 weeks.
